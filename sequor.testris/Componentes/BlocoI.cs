@@ -8,6 +8,9 @@ namespace sequor.testris.Componentes
 {
     public class BlocoI : absBloco
     {
+        // teste 2
+
+
 
         public BlocoI(Enums.TiposAngulo tipoAngulo)
         {
